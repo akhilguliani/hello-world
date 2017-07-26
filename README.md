@@ -1,6 +1,4 @@
-hello-world
+Hello-world
 ===========
 
-Hello World Test
-
-This how we commit to a project
+Hello World Test Programs in various programming languages
